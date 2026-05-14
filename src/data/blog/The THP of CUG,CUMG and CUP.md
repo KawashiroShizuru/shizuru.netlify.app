@@ -3,6 +3,7 @@ title: The review of united THP of CUG CUMG and CUP
 author: Kawashiro Shizuru
 pubDatetime: 2026-04-27T22:30:00Z
 slug: The-review-of-united-THP-of-CUG-CUMG-and-CUP
+featured: true
 draft: false
 tags:
   - touhou
