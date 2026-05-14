@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "Kawashiro Shizuru"
 ---
 
-My name is Kawashiro Shizuru,a undergraduate of USTB.
+My name is Kawashiro Shizuru,an undergraduate of USTB.
 
 I have a lot of hobbies:
 - Digital oil painting

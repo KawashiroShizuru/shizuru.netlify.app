@@ -1,5 +1,5 @@
 ---
-title: The review of united THP of CUG CUMG and CUP 
+title: 九州拾遗——地矿油联合东方例会观后总结
 author: Kawashiro Shizuru
 pubDatetime: 2026-04-27T22:30:00Z
 slug: The-review-of-united-THP-of-CUG-CUMG-and-CUP

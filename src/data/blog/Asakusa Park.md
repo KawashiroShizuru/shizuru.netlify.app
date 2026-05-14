@@ -1,5 +1,5 @@
 ---
-title: Asakusa Park Illustration
+title: <<浅草公园>>绘制
 author: Kawashiro Shizuru
 pubDatetime: 2026-04-29T00:00:00Z
 slug: Asakusa-Park-Illustration
