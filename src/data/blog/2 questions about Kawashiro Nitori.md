@@ -4,7 +4,7 @@ author: Kawashiro Shizuru
 pubDatetime: 2026-05-03T20:17:00Z
 slug: 2-problems-about-Kawashiro-Nitori
 featured: false
-draft: false
+draft: true
 tags:
   - Kawashiro Nitori
   - touhou
