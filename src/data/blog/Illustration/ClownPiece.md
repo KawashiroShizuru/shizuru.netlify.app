@@ -3,7 +3,7 @@ title: <<克劳恩皮丝>>绘制
 author: Kawashiro Shizuru
 pubDatetime: 2026-05-15T20:12:00Z
 slug: Clown-Piece-Drawing-Process-Illustration
-featured: true
+featured: false
 draft: false
 tags:
   - illustration
